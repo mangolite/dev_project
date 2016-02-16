@@ -3,7 +3,13 @@
 	url = https://github.com/mangolite/utils.git
 [submodule "webutils"]
 	path = webutils
-	url = https://github.com/mangolite/webutils.git
+	url = https://github.com/mangolite/mangolite.git
+[submodule "mangolite"]
+        path = mangolite
+        url = https://github.com/mangolite/mangolite.git
 [submodule "dev_web"]
 	path = dev_web
 	url = https://github.com/mangolite/dev_web.git
+[submodule "sample_web"]
+        path = sample_web
+        url = https://github.com/mangolite/dev_web.git
